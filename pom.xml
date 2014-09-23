@@ -45,6 +45,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- jboss dependency versions -->
         <version.jboss.maven.plugin>7.4.Final</version.jboss.maven.plugin>
+        <version.wildfly.maven.plugin>1.0.0.Final</version.wildfly.maven.plugin>
         <version.jboss.spec.javaee.7.0>1.0.0.Final</version.jboss.spec.javaee.7.0>
         <!-- maven plugin versions -->
         <version.shade.plugin>2.3</version.shade.plugin>
